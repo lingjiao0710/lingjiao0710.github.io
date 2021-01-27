@@ -1,8 +1,9 @@
-baseurl: https://example.com
+baseurl: http://zxyt.net:1313
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: 付少的主页
+uglyurls: true
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
