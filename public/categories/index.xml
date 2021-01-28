@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 付少的主页</title>
-    <link>http://zxyt.net:1313/categories.html</link>
+    <link>http://zxyt.net:88/categories.html</link>
     <description>Recent content in Categories on 付少的主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://zxyt.net:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://zxyt.net:88/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://zxyt.net:1313/categories/test.html</link>
+      <link>http://zxyt.net:88/categories/test.html</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/categories/test.html</guid>
+      <guid>http://zxyt.net:88/categories/test.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>测试</title>
-      <link>http://zxyt.net:1313/categories/%E6%B5%8B%E8%AF%95.html</link>
+      <link>http://zxyt.net:88/categories/%E6%B5%8B%E8%AF%95.html</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/categories/%E6%B5%8B%E8%AF%95.html</guid>
+      <guid>http://zxyt.net:88/categories/%E6%B5%8B%E8%AF%95.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>http://zxyt.net:1313/categories/syntax.html</link>
+      <link>http://zxyt.net:88/categories/syntax.html</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/categories/syntax.html</guid>
+      <guid>http://zxyt.net:88/categories/syntax.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://zxyt.net:1313/categories/themes.html</link>
+      <link>http://zxyt.net:88/categories/themes.html</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/categories/themes.html</guid>
+      <guid>http://zxyt.net:88/categories/themes.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test with whitespaces</title>
-      <link>http://zxyt.net:1313/categories/test-with-whitespaces.html</link>
+      <link>http://zxyt.net:88/categories/test-with-whitespaces.html</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/categories/test-with-whitespaces.html</guid>
+      <guid>http://zxyt.net:88/categories/test-with-whitespaces.html</guid>
       <description></description>
     </item>
     

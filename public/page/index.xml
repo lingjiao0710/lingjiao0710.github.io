@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 付少的主页</title>
-    <link>http://zxyt.net:1313/page.html</link>
+    <link>http://zxyt.net:88/page.html</link>
     <description>Recent content in Pages on 付少的主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://zxyt.net:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://zxyt.net:88/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>http://zxyt.net:1313/archives.html</link>
+      <link>http://zxyt.net:88/archives.html</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/archives.html</guid>
+      <guid>http://zxyt.net:88/archives.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://zxyt.net:1313/about.html</link>
+      <link>http://zxyt.net:88/about.html</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/about.html</guid>
+      <guid>http://zxyt.net:88/about.html</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -29,10 +29,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Search</title>
-      <link>http://zxyt.net:1313/search.html</link>
+      <link>http://zxyt.net:88/search.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://zxyt.net:1313/search.html</guid>
+      <guid>http://zxyt.net:88/search.html</guid>
       <description></description>
     </item>
     
